@@ -106,7 +106,3 @@ For support:
 1. Check the [Zenskar Documentation](https://www.zenskar.com/docs)
 2. Contact Zenskar support
 3. Open an issue in this repository
-
-## License
-[Your License Here]
-# Zenskar-assignment
