@@ -88,6 +88,7 @@ python zenskar_api_integration.py --api-key YOUR_API_KEY --organisation-id YOUR_
 For more details about the Zenskar API, refer to:
 - [Zenskar Documentation](https://www.zenskar.com/docs/introduction-to-zenskar)
 - [API Reference](https://www.zenskar.com/reference/authentication)
+- [Assignment](https://docs.google.com/document/d/1-5Qr63spZhVqIuT83MfM8ftd9nbykHSgFzWSavnc59Q/edit?usp=sharing)
 
 ## Troubleshooting
 - Ensure you have valid API credentials
